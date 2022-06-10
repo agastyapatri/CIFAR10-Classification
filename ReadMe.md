@@ -1,4 +1,5 @@
 # **CIFAR-10 Classification**
+## To be Appended.
 _This project is meant to be a playground for PyTorch._
 CIFAR-10 is a image dataset. 
 
